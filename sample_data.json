@@ -1,0 +1,150 @@
+{"products": [
+  {
+    "id": "1",
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality wireless headphones with noise cancellation technology and long battery life.",
+    "price": 149.99,
+    "originalPrice": 199.99,
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D",
+    "rating": 4.7,
+    "reviews": 128,
+    "featured": true,
+    "inStock": true,
+    "sale": true
+  },
+  {
+    "id": "2",
+    "name": "Smart Watch Series 5",
+    "description": "Track your fitness goals, receive notifications, and more with this elegant smart watch.",
+    "price": 299.99,
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHByb2R1Y3R8ZW58MHx8MHx8fDA%3D",
+    "rating": 4.5,
+    "reviews": 94,
+    "featured": true,
+    "inStock": true,
+    "new": true
+  },
+  {
+    "id": "3",
+    "name": "Premium Cotton T-Shirt",
+    "description": "Comfortable and stylish 100% cotton t-shirt available in various colors.",
+    "price": 24.99,
+    "originalPrice": 34.99,
+    "category": "clothing",
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D",
+    "rating": 4.3,
+    "reviews": 210,
+    "inStock": true,
+    "sale": true
+  },
+  {
+    "id": "4",
+    "name": "Designer Desk Lamp",
+    "description": "Modern desk lamp with adjustable brightness and color temperature.",
+    "price": 59.99,
+    "category": "home",
+    "image": "https://images.unsplash.com/photo-1507394650748-2c27a4ee9da7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGxhbXB8ZW58MHx8MHx8fDA%3D",
+    "rating": 4.1,
+    "reviews": 76,
+    "inStock": true
+  },
+  {
+    "id": "5",
+    "name": "Leather Wallet",
+    "description": "Genuine leather wallet with multiple card slots and RFID protection.",
+    "price": 39.99,
+    "originalPrice": 49.99,
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2FsbGV0fGVufDB8fDB8fHww",
+    "rating": 4.6,
+    "reviews": 152,
+    "inStock": true,
+    "sale": true
+  },
+  {
+    "id": "6",
+    "name": "Best-Selling Novel",
+    "description": "The latest best-selling novel that everyone is talking about.",
+    "price": 19.99,
+    "category": "books",
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Ym9va3xlbnwwfHwwfHx8MA%3D%3D",
+    "rating": 4.8,
+    "reviews": 239,
+    "featured": true,
+    "inStock": true,
+    "new": true
+  },
+  {
+    "id": "7",
+    "name": "Coffee Maker",
+    "description": "Programmable coffee maker with built-in grinder for the freshest coffee.",
+    "price": 129.99,
+    "category": "home",
+    "image": "https://images.unsplash.com/photo-1606483956061-46a898dce538?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvZmZlZSUyMG1ha2VyfGVufDB8fDB8fHww",
+    "rating": 4.4,
+    "reviews": 88,
+    "inStock": true
+  },
+  {
+    "id": "8",
+    "name": "Smartphone Stand",
+    "description": "Adjustable aluminum stand for smartphones and tablets.",
+    "price": 19.99,
+    "originalPrice": 29.99,
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1589739900243-4b52cd9bd13e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHNtYXJ0cGhvbmUlMjBzdGFuZHxlbnwwfHwwfHx8MA%3D%3D",
+    "rating": 4.2,
+    "reviews": 124,
+    "inStock": true,
+    "sale": true
+  }
+],
+
+"categories": [
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "description": "Discover the latest gadgets and tech innovations.",
+    "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZWxlY3Ryb25pY3N8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": "clothing",
+    "name": "Clothing",
+    "description": "Stylish apparel for all seasons and occasions.",
+    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNsb3RoaW5nfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "home",
+    "name": "Home & Living",
+    "description": "Transform your space with our home collection.",
+    "image": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGhvbWUlMjBkZWNvcnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "description": "Complete your look with our range of accessories.",
+    "image": "https://images.unsplash.com/photo-1620327467532-6ebaca6273ed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8amV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": "books",
+    "name": "Books",
+    "description": "Explore our collection of bestsellers and classics.",
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ym9va3N8ZW58MHx8MHx8fDA%3D"
+  }
+],
+"newArrivals": {
+  "id": "8",
+  "name": "Smartphone Stand",
+  "description": "Adjustable aluminum stand for smartphones and tablets.",
+  "price": 19.99,
+  "originalPrice": 29.99,
+  "category": "accessories",
+  "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHByb2R1Y3R8ZW58MHx8MHx8fDA%3D",
+  "rating": 4.2,
+  "reviews": 124,
+  "inStock": true,
+  "sale": true
+}
+}
